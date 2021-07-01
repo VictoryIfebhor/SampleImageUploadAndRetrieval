@@ -5,7 +5,7 @@
  */
 package com.demo.bean;
 
-import com.demo.image.Image;
+import com.demo.object.Image;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
